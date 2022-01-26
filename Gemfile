@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'awesome_nested_set', git: 'https://github.com/collectiveidea/awesome_nested_set', ref: '0272e84'
+
 gemspec
 
 group :development do
